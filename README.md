@@ -34,7 +34,7 @@ Ifsc of Palam Vihar, Gurgaon SBI SBIN0004458, 004458 branch code, gurgaon ,pin -
 •	Dlf Phase Ii Gurgaon<br>
 Ifsc of Dlf Phase Ii Gurgaon SBI SBIN0004463, 004463 branch code, lg-03-04 moulsari arcad,edlf phase iii ,gurgaon ,pin - 122002.<br>
 •	Rbo Region 2, Dao - I<br>
-Ifsc of Rbo Region 2, Dao - I SBI SBIN0005120, 005120 branch code, rbo office gurgaon, dlf qutub enclave, gurgaon - 122002. <a href="http://myifsccodes.com/state-bank-of-india/haryana/gurgaon/">More here</a>.<br>
+Ifsc of Rbo Region 2, Dao - I SBI SBIN0005120, 005120 branch code, rbo office gurgaon, dlf qutub enclave, gurgaon - 122002. <a href="http://myifsccodes.com/state-bank-of-india/">More here</a>.<br>
 •	Roj Ka Meo Sohna<br>
 Ifsc of Roj Ka Meo Sohna SBI SBIN0006836, 006836 branch code, rojkameo,distt gurgaon,haryana,pin 122103.<br>
 •	State Bank Academy<br>
