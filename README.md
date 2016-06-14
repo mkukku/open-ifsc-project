@@ -1,9 +1,9 @@
-# open-ifsc-project<br><br>
-Provides simple yet powerful API to query over 150 bank's branch ifsc codes.<br><br>
-Below are some sample output data in a user defined format.<br><br>
-•	Nuh<br><br>
-Ifsc of Nuh SBI SBIN0000620, 000620 branch code, tehsil nuh,gurgaon,haryana,pin 122107.<br><br>
-•	New Colony<br><br>
+# open-ifsc-project<br>
+Provides simple yet powerful API to query over 150 bank's branch ifsc codes.<br>
+Below are some sample output data in a user defined format.<br>
+•	Nuh<br>
+Ifsc of Nuh SBI SBIN0000620, 000620 branch code, tehsil nuh,gurgaon,haryana,pin 122107.<br>
+•	New Colony<br>
 Ifsc of New Colony SBI SBIN0000645, 000645 branch code, new colony, gurgaon, haryana, pin 122001.<br>
 •	Firozpur Jhirka<br>
 Ifsc of Firozpur Jhirka SBI SBIN0001071, 001071 branch code, pin122104.<br>
@@ -34,7 +34,7 @@ Ifsc of Palam Vihar, Gurgaon SBI SBIN0004458, 004458 branch code, gurgaon ,pin -
 •	Dlf Phase Ii Gurgaon<br>
 Ifsc of Dlf Phase Ii Gurgaon SBI SBIN0004463, 004463 branch code, lg-03-04 moulsari arcad,edlf phase iii ,gurgaon ,pin - 122002.<br>
 •	Rbo Region 2, Dao - I<br>
-Ifsc of Rbo Region 2, Dao - I SBI SBIN0005120, 005120 branch code, rbo office gurgaon, dlf qutub enclave, gurgaon - 122002.<br>
+Ifsc of Rbo Region 2, Dao - I SBI SBIN0005120, 005120 branch code, rbo office gurgaon, dlf qutub enclave, gurgaon - 122002. <a href="http://myifsccodes.com/state-bank-of-india/haryana/gurgaon/">More here</a>.<br>
 •	Roj Ka Meo Sohna<br>
 Ifsc of Roj Ka Meo Sohna SBI SBIN0006836, 006836 branch code, rojkameo,distt gurgaon,haryana,pin 122103.<br>
 •	State Bank Academy<br>
@@ -65,4 +65,4 @@ Ifsc of Golf Course Road SBI SBIN0016020, 016020 branch code, g-008, suncity bus
 Ifsc of Pataudi SBI SBIN0016239, 016239 branch code, haily mandi road, near obc, pataudi, distt. gurgaon. haryana-122503.<br>
 •	Imt Manesar<br>
 Ifsc of Imt Manesar SBI SBIN0016371, 016371 branch code, ground floor, amrapali commercial cmplex, j- block, sector-2,imt manesar, distt. gurgaon. haryana - 122050.<br>
-<br>
+For free data access and download your can refer <a href="http://myifsccodes.com/state-bank-of-india/haryana/">Myifsccodes.com SBI Haryana</a> page or <a href="http://myifsccodes.com/state-bank-of-india/haryana/gurgaon/">Gurgaon</a> page.
